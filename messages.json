@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "张三",
+    "email": "zhangsan@example.com",
+    "title": "咨询招生问题",
+    "content": "请问2025年计算机专业的招生计划何时公布？",
+    "date": "2025-06-20T09:15:22Z"
+  },
+  {
+    "id": 2,
+    "name": "李四",
+    "email": "lisi@example.com",
+    "title": "校园参观预约",
+    "content": "想预约7月1日参观校园，如何办理？",
+    "date": "2025-06-21T14:30:45Z"
+  }
+]
